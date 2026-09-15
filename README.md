@@ -15,8 +15,6 @@ Combined hotel booking data for Fukui Prefecture tourism nodes, merging two sour
 - Rakuten Travel API: https://webservice.rakuten.co.jp/
 - code4fukui / obama-kanko-reservation (FTAS open data): https://github.com/code4fukui/obama-kanko-reservation
 
-Credit and thanks to [Code for Fukui](https://code4fukui.github.io/) and the Fukui Prefectural Tourism Federation for making the FTAS data openly available under the MIT License.
-
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
